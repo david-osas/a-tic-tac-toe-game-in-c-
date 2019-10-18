@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1565627296 source:c:\users\paul uzeh\documents\tic_tac_toe\main.cpp
+	<iostream>
+	"header.h"
+
+1565623936 c:\users\paul uzeh\documents\tic_tac_toe\header.h
+
+1565626232 source:c:\users\paul uzeh\documents\tic_tac_toe\function.cpp
+	<iostream>
+	"header.h"
+
+1565626232 source:c:\users\david osas\documents\tic_tac_toe\function.cpp
+	<iostream>
+	"header.h"
+
+1565623936 c:\users\david osas\documents\tic_tac_toe\header.h
+
+1565627296 source:c:\users\david osas\documents\tic_tac_toe\main.cpp
+	<iostream>
+	"header.h"
+
